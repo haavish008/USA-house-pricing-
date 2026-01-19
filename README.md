@@ -1,5 +1,3 @@
-# USA-house-pricing-
-End-to-end data analytics and regression analysis project on USA house pricing data from Kaggle, including data preprocessing, exploratory data analysis (EDA), visualization, regression modeling, and model evaluation using Python.
 📌 USA House Pricing Analysis 🏡📊
 
 This project focuses on analyzing the USA House Pricing dataset sourced from Kaggle to understand the factors influencing house prices. The project follows a complete data analytics workflow, starting from data collection and preprocessing, followed by exploratory data analysis (EDA) and visualization, regression modeling, and performance evaluation.
